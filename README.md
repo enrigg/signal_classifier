@@ -9,3 +9,8 @@ Objetivos de la clasificación:
 - Verde
 
 En el caso de tener más tiempo, añadiremos más señales de tráfico.
+
+Intrucciones:
+1. Descargar el dataset
+2. Unzip el dataset y guardar en la carpeta /images/semaforos
+3. Ejecutar el script de python para generar el dataset
